@@ -66,7 +66,7 @@ const Login = () => {
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 required
-                className="w-full px-4 py-2 border rounded-md  bg-white"
+                className="w-full mb-3 px-4 py-2 border rounded-md  bg-white"
               />
               <button
                 type="button"
